@@ -1,7 +1,7 @@
 - Hello I'm @IsraelV21. Currently a Computer Engineering Major at Portland State University. The pleasure is all mine.
 - I’m interested in collaboration and sharpening my programming skills 
 - I’m currently learning Verilog 
-- I’m looking to collaborate on drivers and hardware projects 
+- I’m looking to collaborate on drivers and hardware specific projects 
 - How to reach me [CURRENTLY UNAVAILABLE]
 
 <!---
